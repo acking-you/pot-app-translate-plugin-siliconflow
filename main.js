@@ -1,27 +1,44 @@
 async function translate(text, from, to, options) {
     const { config, utils } = options;
     const { tauriFetch: fetch } = utils;
-    let { requestPath: url } = config;
-    let plain_text = text.replaceAll("/", "@@");
-    let encode_text = encodeURIComponent(plain_text);
-    if (url === undefined || url.length === 0) {
-        url = "lingva.pot-app.com"
+    
+    let { apiKey, model = "deepseek-ai/DeepSeek-V2.5" } = config;
+    
+    // the request path
+    const requestPath = "https://api.siliconflow.cn/v1/chat/completions";
+    
+    const headers = {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${apiKey}`
     }
-    if (!url.startsWith("http")) {
-        url = `https://${url}`;
+    
+    const body = {
+        model: model,  // use the model name
+        messages: [
+            {
+                "role": "system",
+                "content": "You are a professional translation engine, please translate the text into a colloquial, professional, elegant and fluent content, without the style of machine translation. You must only translate the text content, never interpret it."
+            },
+            {
+                "role": "user",
+                "content": `Translate into ${to}:\n${text}`
+            }
+        ]
     }
-    const res = await fetch(`${url}/api/v1/${from}/${to}/${encode_text}`, {
-        method: 'GET',
+    
+    let res = await fetch(requestPath, {
+        method: 'POST',
+        url: requestPath,
+        headers: headers,
+        body: {
+            type: "Json",
+            payload: body
+        }
     });
-
+    
     if (res.ok) {
         let result = res.data;
-        const { translation } = result;
-        if (translation) {
-            return translation.replaceAll("@@", "/");;
-        } else {
-            throw JSON.stringify(result.trim());
-        }
+        return result.choices[0].message.content.trim().replace(/^"|"$/g, '');
     } else {
         throw `Http Request Error\nHttp Status: ${res.status}\n${JSON.stringify(res.data)}`;
     }

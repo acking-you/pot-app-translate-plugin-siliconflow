@@ -1,10 +1,26 @@
 {
-  "id": "plugin.com.pot-app.lingva",
+  "id": "plugin.com.pot-app.siliconflow",
   "plugin_type": "translate",
-  "icon": "lingva.svg",
-  "display": "Lingva",
-  "homepage": "https://github.com/pot-app/pot-app-translate-plugin-template",
-  "needs": [{ "key": "requestPath", "display": "请求地址" }],
+  "icon": "silicon.png",
+  "display": "Siliconflow",
+  "homepage": "https://github.com/acking-you/pot-app-translate-plugin-siliconflow",
+  "needs": [
+    {
+      "key": "model",
+      "display": "模型选择",
+      "type": "input",
+      "options": {
+        "deepseek-v2.5": "deepseek-ai/DeepSeek-V2.5",
+        "deepseek-v3": "deepseek-ai/DeepSeek-V3"
+      },
+      "default": "deepseek-v2.5"
+    },
+    {
+      "key": "apiKey",
+      "display": "API密钥",
+      "type": "input"
+    }
+  ],
   "language": {
     "auto": "auto",
     "zh_cn": "zh",
