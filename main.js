@@ -38,7 +38,7 @@ async function translate(text, from, to, options) {
     
     if (res.ok) {
         let result = res.data;
-        return result.choices[0].message.content.trim().replace(/^"|"$/g, '');
+        return result.choices[0].message.content.trim();
     } else {
         throw `Http Request Error\nHttp Status: ${res.status}\n${JSON.stringify(res.data)}`;
     }

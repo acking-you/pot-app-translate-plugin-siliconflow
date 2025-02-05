@@ -1,0 +1,5626 @@
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "Swift",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 1,
+        "total_tokens": 168
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "ide",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 2,
+        "total_tokens": 169
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "迎来",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 3,
+        "total_tokens": 170
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "了一次",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 4,
+        "total_tokens": 171
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "非常",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 5,
+        "total_tokens": 172
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "重磅",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 6,
+        "total_tokens": 173
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "的",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 7,
+        "total_tokens": 174
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "更新",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 8,
+        "total_tokens": 175
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "🎉",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 11,
+        "total_tokens": 178
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 12,
+        "total_tokens": 179
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "0",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 13,
+        "total_tokens": 180
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": ".",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 14,
+        "total_tokens": 181
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "1",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 15,
+        "total_tokens": 182
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "6",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 16,
+        "total_tokens": 183
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "版本",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 17,
+        "total_tokens": 184
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "允许",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 18,
+        "total_tokens": 185
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "你在",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 19,
+        "total_tokens": 186
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "R",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 20,
+        "total_tokens": 187
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "ust",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 21,
+        "total_tokens": 188
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "中",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 22,
+        "total_tokens": 189
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "构建",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 23,
+        "total_tokens": 190
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "AI",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 24,
+        "total_tokens": 191
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "代理",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 25,
+        "total_tokens": 192
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 26,
+        "total_tokens": 193
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "你知道",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 27,
+        "total_tokens": 194
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 28,
+        "total_tokens": 195
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "就是",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 29,
+        "total_tokens": 196
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "那个",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 30,
+        "total_tokens": 197
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "大家",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 31,
+        "total_tokens": 198
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "都在",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 32,
+        "total_tokens": 199
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "谈论",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 33,
+        "total_tokens": 200
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "的热",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 34,
+        "total_tokens": 201
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "门",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 35,
+        "total_tokens": 202
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "AI",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 36,
+        "total_tokens": 203
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "话题",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 37,
+        "total_tokens": 204
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 38,
+        "total_tokens": 205
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "承诺",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 39,
+        "total_tokens": 206
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "可以",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 40,
+        "total_tokens": 207
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "为你",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 41,
+        "total_tokens": 208
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "完成",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 42,
+        "total_tokens": 209
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "一切",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 43,
+        "total_tokens": 210
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 44,
+        "total_tokens": 211
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "我",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 45,
+        "total_tokens": 212
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "相对",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 46,
+        "total_tokens": 213
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "乐观",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 47,
+        "total_tokens": 214
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "一些",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 48,
+        "total_tokens": 215
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 49,
+        "total_tokens": 216
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "我认为",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 50,
+        "total_tokens": 217
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "我们",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 51,
+        "total_tokens": 218
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "还没有",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 52,
+        "total_tokens": 219
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "完全",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 53,
+        "total_tokens": 220
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "达到",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 54,
+        "total_tokens": 221
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "那个",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 55,
+        "total_tokens": 222
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "水平",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 56,
+        "total_tokens": 223
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 57,
+        "total_tokens": 224
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "而在",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 58,
+        "total_tokens": 225
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "构建",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 59,
+        "total_tokens": 226
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "代理",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 60,
+        "total_tokens": 227
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "时",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 61,
+        "total_tokens": 228
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 62,
+        "total_tokens": 229
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "性能",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 63,
+        "total_tokens": 230
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "和",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 64,
+        "total_tokens": 231
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "可靠性",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 65,
+        "total_tokens": 232
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "突然",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 66,
+        "total_tokens": 233
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "变得",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 67,
+        "total_tokens": 234
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "至关重要",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 68,
+        "total_tokens": 235
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 69,
+        "total_tokens": 236
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "与此同时",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 70,
+        "total_tokens": 237
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 71,
+        "total_tokens": 238
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "这个",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 72,
+        "total_tokens": 239
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "领域",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 73,
+        "total_tokens": 240
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "的发展",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 74,
+        "total_tokens": 241
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "速度",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 75,
+        "total_tokens": 242
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "快",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 76,
+        "total_tokens": 243
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "得",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 77,
+        "total_tokens": 244
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "离",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 78,
+        "total_tokens": 245
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "谱",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 79,
+        "total_tokens": 246
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 80,
+        "total_tokens": 247
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "所以我们",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 81,
+        "total_tokens": 248
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "需要",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 82,
+        "total_tokens": 249
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "一些",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 83,
+        "total_tokens": 250
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "构建",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 84,
+        "total_tokens": 251
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "模块",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 85,
+        "total_tokens": 252
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 86,
+        "total_tokens": 253
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "以便",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 87,
+        "total_tokens": 254
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "能够",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 88,
+        "total_tokens": 255
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "以",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 89,
+        "total_tokens": 256
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "同样的",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 90,
+        "total_tokens": 257
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "速度",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 91,
+        "total_tokens": 258
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "进行",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 92,
+        "total_tokens": 259
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "创新",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 93,
+        "total_tokens": 260
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 94,
+        "total_tokens": 261
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "而不",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 95,
+        "total_tokens": 262
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "被",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 96,
+        "total_tokens": 263
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "基础设施",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 97,
+        "total_tokens": 264
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "（",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 98,
+        "total_tokens": 265
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "或",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 99,
+        "total_tokens": 266
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "生命",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 100,
+        "total_tokens": 267
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "周期",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 101,
+        "total_tokens": 268
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "）",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 102,
+        "total_tokens": 269
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "问题",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 103,
+        "total_tokens": 270
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "所",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 104,
+        "total_tokens": 271
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "困扰",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 105,
+        "total_tokens": 272
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 106,
+        "total_tokens": 273
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "我认为",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 107,
+        "total_tokens": 274
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 108,
+        "total_tokens": 275
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "通过",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 109,
+        "total_tokens": 276
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "这次",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 110,
+        "total_tokens": 277
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "更新",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 111,
+        "total_tokens": 278
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 112,
+        "total_tokens": 279
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "我们",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 113,
+        "total_tokens": 280
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "在这",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 114,
+        "total_tokens": 281
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "方面",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 115,
+        "total_tokens": 282
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "迈",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 116,
+        "total_tokens": 283
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "出了",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 117,
+        "total_tokens": 284
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "重要",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 118,
+        "total_tokens": 285
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "的一",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 119,
+        "total_tokens": 286
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "步",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 120,
+        "total_tokens": 287
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 121,
+        "total_tokens": 288
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "Swift",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 122,
+        "total_tokens": 289
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "ide",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 123,
+        "total_tokens": 290
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "是一个",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 124,
+        "total_tokens": 291
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "用于",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 125,
+        "total_tokens": 292
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "构建",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 126,
+        "total_tokens": 293
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "LL",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 127,
+        "total_tokens": 294
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "M",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 128,
+        "total_tokens": 295
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "应用",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 129,
+        "total_tokens": 296
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "的",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 130,
+        "total_tokens": 297
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "R",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 131,
+        "total_tokens": 298
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "ust",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 132,
+        "total_tokens": 299
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "库",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 133,
+        "total_tokens": 300
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 134,
+        "total_tokens": 301
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "它可以",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 135,
+        "total_tokens": 302
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "进行",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 136,
+        "total_tokens": 303
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "索",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 137,
+        "total_tokens": 304
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "引",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 138,
+        "total_tokens": 305
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "、",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 139,
+        "total_tokens": 306
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "查询",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 140,
+        "total_tokens": 307
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "、",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 141,
+        "total_tokens": 308
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "运行",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 142,
+        "total_tokens": 309
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "代理",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 143,
+        "total_tokens": 310
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "，",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 144,
+        "total_tokens": 311
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "并将",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 145,
+        "total_tokens": 312
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "你的",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 146,
+        "total_tokens": 313
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "实验",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 147,
+        "total_tokens": 314
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "直接",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 148,
+        "total_tokens": 315
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "带",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 149,
+        "total_tokens": 316
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "入",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 150,
+        "total_tokens": 317
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "生产",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 151,
+        "total_tokens": 318
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "环境",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 152,
+        "total_tokens": 319
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "。",
+                "reasoning_content": null
+            },
+            "finish_reason": null,
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 153,
+        "total_tokens": 320
+    }
+}
+
+data: {
+    "id": "0194d6f9d660e0dcc82c926ad6223554",
+    "object": "chat.completion.chunk",
+    "created": 1738773485,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "delta": {
+                "content": "",
+                "reasoning_content": null
+            },
+            "finish_reason": "stop",
+            "content_filter_results": {
+                "hate": {
+                    "filtered": false
+                },
+                "self_harm": {
+                    "filtered": false
+                },
+                "sexual": {
+                    "filtered": false
+                },
+                "violence": {
+                    "filtered": false
+                }
+            }
+        }
+    ],
+    "system_fingerprint": "",
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 153,
+        "total_tokens": 320
+    }
+}
+
+data: [DONE
+]

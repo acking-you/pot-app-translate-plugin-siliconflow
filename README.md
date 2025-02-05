@@ -14,3 +14,8 @@
 2. 选择"服务设置"
 3. 点击"翻译-添加外部插件"
 4. 选择本插件的发布包进行安装
+
+## 使用方法
+
+- model：选择需要使用的模型名称，可用的具体模型与 [docs](https://docs.siliconflow.cn/api-reference/chat-completions/chat-completions) 保持一致（需我手动更新 `info.json` 文件）
+- apiKey: API 密钥

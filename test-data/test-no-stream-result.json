@@ -1,0 +1,22 @@
+{
+    "id": "0194d6fc8278303e9ccdc4991d4cb390",
+    "object": "chat.completion",
+    "created": 1738773660,
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Swiftide迎来了一次相当重要的发布🎉，0.16版本允许你在Rust中构建AI代理。没错，就是大家都在谈论的那个人工智能热点，承诺可以为你搞定一切。我个人相对乐观一些，我认为我们还没有完全达到那个水平。在构建代理时，性能和可靠性突然变得至关重要。同时，这个领域发展得非常非常快，所以我们需要构建块来保持同样的创新速度，而不是被基础设施（或生命周期）问题所困扰。我认为通过这次发布，我们在这方面迈出了一步。Swiftide是一个用于构建大型语言模型（LLM）应用的Rust库。你可以进行索引、查询、运行代理，并将你的实验直接带入生产环境。"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 149,
+        "total_tokens": 316
+    },
+    "system_fingerprint": ""
+}
